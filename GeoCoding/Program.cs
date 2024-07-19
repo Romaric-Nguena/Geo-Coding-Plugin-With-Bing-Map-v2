@@ -19,6 +19,9 @@ namespace GeoCoding
 
             if (coordinates != null)
             {
+                Console.WriteLine("");
+                Console.WriteLine("Geo Coding Results: ");
+                Console.WriteLine("----------------------------------------------------------------------------");
                 Console.WriteLine($"Latitude: {coordinates.Value.Latitude}");
                 Console.WriteLine($"Longitude: {coordinates.Value.Longitude}");
             }
