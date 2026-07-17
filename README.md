@@ -1,6 +1,6 @@
-# Geo-Coding Plugin with Bing Maps
+# Dataverse Geo-Coding Plugin with Bing Maps
 
-A simple .NET geocoding project that converts a human-readable address into geographic coordinates using the Bing Maps REST API.
+A simple .NET geocoding project for Dataverse that converts a human-readable address into geographic coordinates using the Bing Maps REST API.
 
 This repository can be used as a starting point for a Dataverse geocoding plugin or integration scenario where address fields need to be converted into latitude and longitude values.
 
